@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello there, I'm Axel Castillo 🌏
+### I'm  FullStack Developer | MERN Stack
 
-<!--
-**AxelCastilloDev/AxelCastilloDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About
+- 🎓 Degree in Accounting (Class 2017)
+- 🎓 Technical Degree in Microcomputers
+- 👀 I'm currently focusing on **MERN Stack**
+- 🔭 I'm currently learning **Python || Go**
+- 💬 Ask me about: everything especially about **tech, movies, series**
+- 🔥 On Progress Project: React Video Chat App | WebRTC Video Chat | 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Reach me
+[![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Acontact.ismailhabibi%40gmail.com)](mailto:axelcastillo690@gmail.com)
+[![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fismailhabibi)](https://www.linkedin.com/in/axel-castillo-azuara/)
